@@ -1,6 +1,6 @@
 # <b>Mongoose doc<b>
 
-Firstly, We will understand .. <br><br>What is MongoDB?<br>
+Firstly, We will try to understand .. <br><br>What is MongoDB?<br>
 <b>MongoDB<b> is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.<br> For more details <a href="https://www.mongodb.com/docs/">Documents here!</a><br>
 <br><br> Now, You will understand something called Mongoose? ... <br>
 Mongoose is a <a href="https://devdocs.io/javascript/">Javascript</a>  object-oriented programming library that creates a connection between MongoDB and the <a href="https://nodejs.org/en/docs/">Node-js</a> JavaScript runtime environment.
